@@ -1,2 +1,16 @@
-h3 Work Experiences
-p (todo)
+h3 Work Experience
+table.u-full-width
+  thead
+    tr
+      th Job Title
+      th Institution
+      th Department
+      th Period 
+  tbody
+  each work in contents['work.json'].metadata     
+    tr
+      img(src='images/' + work.image)
+      td= work.title
+      td= work.institution
+      td= work.department
+      td= work.period

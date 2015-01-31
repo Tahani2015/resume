@@ -2,5 +2,11 @@
     "degree": "Bachelor in Computer Science",
     "school": "King Saud University",
     "city": "Riyadh, Saudi Arabia",
-    "year": "2004"
+    "year": 2004
+},
+{
+    "degree": "Master in Computer Science",
+    "school": "University of Colorado Boulder",
+    "city": "Boulder, Colorado",
+    "year": 2016
 }]

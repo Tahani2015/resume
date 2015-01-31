@@ -1,1 +1,15 @@
-[]
+[{
+	"type": "Technical Skills",
+	"skill1": "Programming (Pascal, C, C++, Assembly, Visual Basic, Java, Python)",
+	"skill2": "Database Systems",
+	"skill3": "Systems Analysis",
+	"skill4": "Website Building (JavaScript, HTML, XHTML, DHTML, CSS)",
+	"skill5": "Microsoft Office Proficiency (Word, PowerPoint, Excel, Frontpage, Access)"
+},{
+	"type": "Personal Skills",
+	"skill1": "Well-organized",
+	"skill2": "Reliable",
+	"skill3": "Exact",
+	"skill4": "Leader",
+	"skill5": "Collaborator"
+}]

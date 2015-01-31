@@ -1,1 +1,20 @@
-[]
+[{
+    "title": "DBDTool",
+    "description": "This is my graduation project for the undergraduate. DBDTool is a database-designing tool that is mainly concerned with transforming an ER diagram to SQL in order to be used by MS Access in building a database.",
+    "image": "DBDTool.jpg"
+},
+{
+    "title": "Ford SUV Case Mod",
+    "description": "This project is a creative design of a computer case mod using the body of an electronic remote control Ford SUV toy. It was presented at the extracurricular activities competition in King Saud University 2004 and got the first prize.",
+    "image": "FordProject.jpg"
+},
+{
+    "title": "Tourist Guide",
+    "description": "This project is a desktop application named Tourist Guide. It guides the user by providing some images, description, location for the top attractions, hotels, restaurants in a selected city. It is a concurrent application and designed by Clojure programming language as a semester project for Software Engineering class in University of Colorado Boulder. ",
+    "image": "TouristGuide.png"
+},
+{
+    "title": "Food Inspector",
+    "description": "This project is an interactive prototype for a mobile application called Food Inspector. This app enables users to inspect their food to see whether or not the product is safe for them and which ingredients conflict with their restrictions. This app can also provide some suggestions of alternative products. It is designed by Axure and was the semester project for User-Centered Design class in University of Colorado Boulder. ",
+    "image": "FoodInspector.png"
+}]

@@ -1,2 +1,15 @@
-h3 Skills
-p (todo)
+br
+h4 Skills
+table.u-full-width
+  tbody
+  each item in contents['skills.json'].metadata    
+    tr
+      td=item.type
+      td= ul
+        li= item.skill1
+        li= item.skill2
+        li= item.skill3
+        li= item.skill4
+        li= item.skill5
+
+      
